@@ -263,3 +263,133 @@ height: 48px;
   letter-spacing: 0%;
   text-align: center;
 }
+.last-cards{
+  color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+  display: flex;
+  gap: 24px;
+  justify-content: center
+  
+  
+}
+.last-cards .box{
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  padding: 40px ;
+ 
+  border-radius: 16px;
+  
+  background: rgb(255, 255, 255);
+}
+.last-cards .main-box{
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+padding: 40px ;
+
+background: rgb(198, 228, 214);
+}
+.last-section{
+  display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+margin-top: 10px;
+
+
+gap: 24;
+padding: 20px 40px 20px 40px;
+
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+  background: rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-radius: 10px;
+
+}
+.last-section .font{
+  color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+border: none;
+background: rgb(255, 255, 255);
+box-sizing: border-box;
+}
+.last-btn{
+
+  text-align: center;
+  gap: 32px;
+  margin-top: 20px ;
+
+}
+
+.Done{
+  background: rgb(0, 106, 80);
+  font-size: 18px;
+font-weight: 600;
+color: rgb(255, 255, 255);
+padding: 17px 34px 17px 34px;
+border-radius: 8px;
+border-color:none;
+
+}
+.last-contant{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.last-banner{
+  width: 1280px;
+  height: 395px;
+  display: flex;
+  justify-content: center;
+ 
+
+
+  border-radius: 24px;
+
+background: rgb(198, 228, 214);
+}
+.last-banner .title-5{
+  text-align: center;
+  
+}
+.last-h1{
+  color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+}
+
+.
+.last-contant .last-description{
+  color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+.last-contant .button{
+  position: relative;
+  width: 100%;
+  margin: o auto;
+  padding: 20px;
+  border-radius: 20px;
+  overflow: hidden;
+
+  
+
+}
